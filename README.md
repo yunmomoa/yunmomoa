@@ -3,7 +3,7 @@
 </div>
  
 <div align="center">
- 	<h2>백엔드 개발자 최윤성입니다 👨‍💻</h2>
+ 	<h1>백엔드 개발자 최윤성입니다 👨‍💻</h1>
 </div>
 
 <h3>📚 Tech Stack</h3>
