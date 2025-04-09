@@ -33,3 +33,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
+
+<h1></h1>
+<img src="https://github-readme-stats.vercel.app/api?username=yunmomoa&show_icons=true&theme=onedark">
