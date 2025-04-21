@@ -6,6 +6,18 @@
  	<h1>맡은 일은 끝까지! 책임감을 코드에 담는 개발자 최윤성입니다 👨‍💻</h1>
 </div>
 
+<h3>🚀 Projects</h3>
+
+- 📊 [그룹웨어 프로젝트](https://github.com/yunmomoa/Workly_SpringProject.git)  
+  - Spring Boot, React 기반의 사내 그룹웨어 시스템
+  - Spring Security와 JWT를 활용한 인증/인가
+  - 인사관리, 연차관리 등 기능 구현
+
+- ⚾️ [야구 커뮤니티 크롤링 프로젝트](https://github.com/yunmomoa/Baseball_Community_ServletProject.git)  
+  - Servlet, JSP 기반의 야구 커뮤니티 프로젝트
+  - 기본적인 게시판 CRUD 기능 구현
+  - Selenium을 활용한 뉴스 데이터를 수집 및 시각화
+<br><br><br>
 <h3>📚 Tech Stack</h3>
 <span>
     <img src="https://img.shields.io/badge/Java-DD0700?style=flat&logo=&logoColor=white" /> 
@@ -34,19 +46,6 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"/>
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
-
-<br><br>
-<h3>🚀 Projects</h3>
-
-- 📊 [그룹웨어 프로젝트](https://github.com/yunmomoa/Workly_SpringProject.git)  
-  - Spring Boot, React 기반의 사내 그룹웨어 시스템
-  - Spring Security와 JWT를 활용한 인증/인가
-  - 인사관리, 연차관리 등 기능 구현
-
-- ⚾️ [야구 커뮤니티 크롤링 프로젝트](https://github.com/yunmomoa/Baseball_Community_ServletProject.git)  
-  - Servlet, JSP 기반의 야구 커뮤니티 프로젝트
-  - 기본적인 게시판 CRUD 기능 구현
-  - Selenium을 활용한 뉴스 데이터를 수집 및 시각화
 
 <h3>🎓 Education</h3>
 
