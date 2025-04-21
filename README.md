@@ -35,5 +35,18 @@
     <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white"/>
 </div>
 
+<br><br>
+<h3>🚀 Projects</h3>
+
+- 🎯 [그룹웨어 프로젝트](https://github.com/yunmomoa/레포명)  
+  Spring Boot, React 기반의 사내 그룹웨어 시스템
+  - Spring Security와 JWT를 활용한 인증/인가
+  - 인사관리, 연차관리 등 기능 구현
+
+- 📊 [야구 커뮤니티 크롤링 프로젝트](https://github.com/yunmomoa/레포명)  
+  Servlet, JSP 기반의 야구 커뮤니티 프로젝트
+  - 기본적인 게시판 CRUD 기능 구현
+  - Selenium을 활용한 뉴스 데이터를 수집 및 시각화
+
 <h1></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=yunmomoa&show_icons=true&theme=onedark">
