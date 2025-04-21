@@ -38,15 +38,19 @@
 <br><br>
 <h3>🚀 Projects</h3>
 
-- 🎯 [그룹웨어 프로젝트](https://github.com/yunmomoa/Workly_SpringProject.git)
-  Spring Boot, React 기반의 사내 그룹웨어 시스템
+- 🎯 [그룹웨어 프로젝트](https://github.com/yunmomoa/Workly_SpringProject.git)  
+  - Spring Boot, React 기반의 사내 그룹웨어 시스템
   - Spring Security와 JWT를 활용한 인증/인가
   - 인사관리, 연차관리 등 기능 구현
 
 - 📊 [야구 커뮤니티 크롤링 프로젝트](https://github.com/yunmomoa/Baseball_Community_ServletProject.git)  
-  Servlet, JSP 기반의 야구 커뮤니티 프로젝트
+  - Servlet, JSP 기반의 야구 커뮤니티 프로젝트
   - 기본적인 게시판 CRUD 기능 구현
   - Selenium을 활용한 뉴스 데이터를 수집 및 시각화
 
+<h3>🎓 Education</h3>
+
+- 국비지원 Java 개발자 양성 과정 수료 (2024.09 ~ 2024.03)  
+- 가천대학교 경영학과 졸업 (2016 ~ 2022)
 <h1></h1>
 <img src="https://github-readme-stats.vercel.app/api?username=yunmomoa&show_icons=true&theme=onedark">
