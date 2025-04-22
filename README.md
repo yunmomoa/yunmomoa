@@ -2,10 +2,6 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=220&section=header&text=yun's&nbsp;GitHub&fontSize=70&animation=fadeIn" />
 </div>
  
-<div align="center">
- 	<h1>맡은 일은 끝까지! 책임감을 코드에 담는 개발자 최윤성입니다 👨‍💻</h1>
-</div>
-
 <h3>🚀 Projects</h3>
 
 - 📊 [그룹웨어 프로젝트](https://github.com/yunmomoa/Workly_SpringProject.git)  
