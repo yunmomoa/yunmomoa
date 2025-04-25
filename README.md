@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/myBatis-181717?style=flat&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"/>
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jQuery&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=Selenium&logoColor=white"/>
 </div>
 <div>
     <img src="https://img.shields.io/badge/Apache Tomcat-F8DC75?style=flat&logo=apachetomcat&logoColor=white"/>
