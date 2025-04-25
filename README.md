@@ -12,7 +12,7 @@
 - ⚾️ [야구 커뮤니티 프로젝트](https://github.com/yunmomoa/Baseball_Community_ServletProject.git)  
   - Servlet, JSP 기반의 야구 커뮤니티 프로젝트
   - 기본적인 게시판 CRUD 기능 구현
-  - Selenium을 활용한 뉴스 데이터를 수집 및 시각화
+  - Selenium을 활용한 뉴스 데이터 수집 및 시각화
 <br><br><br>
 <h3>📚 Tech Stack</h3>
 <span>
